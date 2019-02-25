@@ -1,0 +1,123 @@
+{
+  "Mahasiswa" : [{
+  "id": 1,
+  "name": "Wolfy Darell",
+  "gender": "Male"
+}, {
+  "id": 2,
+  "name": "Charmain Patrone",
+  "gender": "Female"
+}, {
+  "id": 3,
+  "name": "Anatollo Gobel",
+  "gender": "Male"
+}, {
+  "id": 4,
+  "name": "Brodie Kirvell",
+  "gender": "Male"
+}, {
+  "id": 5,
+  "name": "Joli Aldin",
+  "gender": "Female"
+}, {
+  "id": 6,
+  "name": "Tabina Brauner",
+  "gender": "Female"
+}, {
+  "id": 7,
+  "name": "Bone Sawdon",
+  "gender": "Male"
+}, {
+  "id": 8,
+  "name": "Hortensia Foard",
+  "gender": "Female"
+}, {
+  "id": 9,
+  "name": "Dunn Itzkov",
+  "gender": "Male"
+}, {
+  "id": 10,
+  "name": "Koren Rolf",
+  "gender": "Female"
+}, {
+  "id": 11,
+  "name": "Vladamir Eva",
+  "gender": "Male"
+}, {
+  "id": 12,
+  "name": "Anabella Labrone",
+  "gender": "Female"
+}, {
+  "id": 13,
+  "name": "Natassia Tunesi",
+  "gender": "Female"
+}, {
+  "id": 14,
+  "name": "Britta Haydon",
+  "gender": "Female"
+}, {
+  "id": 15,
+  "name": "Berri Bowstead",
+  "gender": "Female"
+}, {
+  "id": 16,
+  "name": "Morgan Castan",
+  "gender": "Female"
+}, {
+  "id": 17,
+  "name": "Jilly Ancliff",
+  "gender": "Female"
+}, {
+  "id": 18,
+  "name": "Lynea Kilday",
+  "gender": "Female"
+}, {
+  "id": 19,
+  "name": "Lurette Frampton",
+  "gender": "Female"
+}, {
+  "id": 20,
+  "name": "Charisse Fraczek",
+  "gender": "Female"
+}, {
+  "id": 21,
+  "name": "Dulcie Nancarrow",
+  "gender": "Female"
+}, {
+  "id": 22,
+  "name": "Uriah Bilton",
+  "gender": "Male"
+}, {
+  "id": 23,
+  "name": "Esme Cayton",
+  "gender": "Female"
+}, {
+  "id": 24,
+  "name": "Debra Coulling",
+  "gender": "Female"
+}, {
+  "id": 25,
+  "name": "Antons Whitecross",
+  "gender": "Male"
+}, {
+  "id": 26,
+  "name": "Ive Pittway",
+  "gender": "Male"
+}, {
+  "id": 27,
+  "name": "Carina Biaggioli",
+  "gender": "Female"
+}, {
+  "id": 28,
+  "name": "Thibaud Lumm",
+  "gender": "Male"
+}, {
+  "id": 29,
+  "name": "Andonis Barsby",
+  "gender": "Male"
+}, {
+  "id": 30,
+  "name": "Teddy Yankishin",
+  "gender": "Male"
+}]
+}
