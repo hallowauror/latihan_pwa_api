@@ -1,6 +1,3 @@
 {
-  "portofolio" : [{
-  "id": 1,
-  "title": "PsycologySays",
-  "description": "Aplikasi konsultasi psikologi."
+"portofolio" : [{"id":1,"title":"PsycologySays","Description: Aplikasi konsultasi psikologi."}]
 }
