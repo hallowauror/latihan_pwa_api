@@ -1,7 +1,6 @@
-{
-  "Portofolio" : [{
+[{
   "id": 1,
   "Title": "PsycologySays",
   "Description": "Aplikasi konsultasi psikologi online berbasis web."
 }]
-}
+
